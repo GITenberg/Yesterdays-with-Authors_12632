@@ -1,0 +1,33 @@
+_repo: Yesterdays-with-Authors_12632
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fields, James Thomas
+    birthdate: 1817
+    deathdate: 1881
+    gutenberg_agent_id: '4465'
+    url: http://www.gutenberg.org/2009/agents/4465
+    wikipedia: http://en.wikipedia.org/wiki/James_Thomas_Fields
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors -- Biography'
+- !lcsh 'Mitford, Mary Russell, 1787-1855'
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864'
+- !lcsh 'Cornwall, Barry, 1787-1874'
+- !lcc 'PR'
+- !lcsh 'Thackeray, William Makepeace, 1811-1863'
+- !lcsh 'Wordsworth, William, 1770-1850'
+- !lcsh 'Dickens, Charles, 1812-1870'
+- GITenberg
+tableOfContents: Thackeray -- Hawthorne -- Dickens -- Wordsworth -- Miss Mitford --
+  "Barry Cornwall" and some of his friends.
+title: Yesterdays with Authors
+url: http://www.gutenberg.org/ebooks/12632
